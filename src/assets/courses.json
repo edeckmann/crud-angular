@@ -1,10 +1,10 @@
 [
   { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" },
-  { "_id": "1", "name": "Angular", "category": "Front-end" }
+  { "_id": "1", "name": "Java", "category": "Back-end" },
+  { "_id": "1", "name": "C#", "category": "Back-end" },
+  { "_id": "1", "name": "Python", "category": "Back-end" },
+  { "_id": "1", "name": "React", "category": "Front-end" },
+  { "_id": "1", "name": "Vue.js", "category": "Front-end" },
+  { "_id": "1", "name": "Nextj", "category": "Front-end" },
+  { "_id": "1", "name": "Golang", "category": "Back-end" }
 ]
